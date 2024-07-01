@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="" width="100%"  >
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
 <h3 align="center">A passionate Web Designer and (Front-end Developer) from Karachi</h3>
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="400" align="right" background-color="black" drop-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="400" align="right" background-color="black" drop-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="g-mustafa1" /> </p>
 
