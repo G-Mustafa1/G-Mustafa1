@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am funny 😊**
 
-- <br>  
+<br>  
 <hr>
 <br>
 
