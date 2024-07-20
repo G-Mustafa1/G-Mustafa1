@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="" width="100%" height="auto" >
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h3 align="center">A passionate Web Designer and (Front-end Developer) from Karachi</h3>
+<h1 align="center">A passionate Web Designer and (Front-end Developer) from Karachi</h1>
 <br />
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="400" align="right" background-color="black" drop-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;>
 
