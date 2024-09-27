@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="" width="100%" >
+<img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" align="center" alt="" width="100%" height="10%" >
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
 <h2 align="center">A passionate Web Designer and (Front-end Developer) from Karachi</h2>
 <br />
