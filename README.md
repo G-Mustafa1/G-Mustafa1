@@ -4,6 +4,7 @@
 <br />
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="450" align="right" background-color="black" drop-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="g-mustafa1" /></p>
 <br>
 
