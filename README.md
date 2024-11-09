@@ -23,15 +23,13 @@
 <br>  
 <hr>
 <br>
-
-<h1>🏆 GitHub Trophies</h1>
+<h1>🏆 GitHub Trophies</h1>  
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=g-mustafa1&theme=darkhub" alt="g-mustafa1" />
+      <img src="https://github-profile-trophy.vercel.app/?username=g-mustafa1&theme=radical" alt="g-mustafa1" />
     </a>
   </p>
 <br>
-
 <h1 align="left"> 💻 Languages and Tools:</h1>
 <p align="center">
   			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
