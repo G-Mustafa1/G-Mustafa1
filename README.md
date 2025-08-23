@@ -26,7 +26,7 @@
 <h1>🏆 GitHub Trophies</h1>  
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=g-mustafa1&theme=monokai" alt="g-mustafa1" />
+      <img src="https://github-profile-trophy.vercel.app/?username=g-mustafa1&theme=radical" alt="g-mustafa1" />
     </a>
   </p>
 <br>
@@ -106,7 +106,7 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=g-mustafa1&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?username=g-mustafa1&theme=dark&hide_border=false)
 
 <br/>
 
