@@ -26,7 +26,7 @@
 <h1>🏆 GitHub Trophies</h1>  
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="g-mustafa1" />
+      <img src="https://github-profile-trophy.vercel.app/?username=g-mustafa1&theme=radical" alt="g-mustafa1" />
     </a>
   </p>
 <br>
