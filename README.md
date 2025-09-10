@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="g-mustafa1" /></p>
 <br>
 
-- 🔭 I’m currently working on **All-Assignment](https://github.com/G-Mustafa1 / All-Assignments)**
+- 🔭 I’m currently working on **[All-Assignment](https://github.com/G-Mustafa1 / All-Assignments)**
 
-- 🌱 I’m currently learning **Web and app mobile development.**
+- 🌱 I’m currently learning **Web and Mobile App Development.**
 
 - 👨‍💻 All of my projects are available at https://github.com/G-Mustafa1
 
@@ -105,7 +105,8 @@
  <h1>📊 GitHub Stats:</h1>
  
 ![](https://github-readme-stats.vercel.app/api?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=12)
+<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=g-mustafa1&theme=dark&hide_border=false)
 
 <br/>
