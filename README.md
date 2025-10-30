@@ -48,7 +48,7 @@
   <tr>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <>HTML5
+      HTML
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
@@ -58,9 +58,9 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
-	  <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
+	  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
@@ -70,9 +70,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+		  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
@@ -80,9 +78,11 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>Typescript 
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+  </tr>
+  <tr>
+	  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="icon" />
+		<br>Nextjs
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
@@ -93,8 +93,24 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="40" />
-      <br>Prettier
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="icon" />
+		<br>Postman
+    </td>
+	  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="icon" />
+		<br>Mongo DB
+    </td>
+	  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="icon" />
+		<br>Express
+    </td>
+	  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="icon" />
+		<br>Vercel
+    </td>
+	   <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
     </td>
  </tr>
 </table>
