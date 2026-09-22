@@ -1,7 +1,12 @@
-<img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" align="center" alt="" width="100%" height="10%" >
+<img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" align="center" alt="" width="1000" height="400" >
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h4 align="center">MERN Stack Developer focused on building modern, scalable, and reliable web applications from Karachi, Pakistan.</h4>
+<h3 align="center">MERN Stack Developer building modern, scalable, and reliable web applications from Karachi, Pakistan.</h3>
 <br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-mustafa1/g-mustafa1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg">
+</picture>
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="450" align="right" background-color="black" drop-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;>
 
 <br>
@@ -118,13 +123,15 @@
 </table>
 
 
- <h1>📊 GitHub Stats:</h1>
- 
-![](https://github-readme-stats.vercel.app/api?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-mustafa1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=12)
-<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=g-mustafa1&theme=dark&hide_border=false)
+<h1>📈 GitHub Stats</h1> 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=g-mustafa1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=g-mustafa1&layout=compact&theme=dark" alt="Top Languages" height="165"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=g-mustafa1&theme=dark" alt="GitHub Streak"/>
+</div>
 <br/>
 
 
