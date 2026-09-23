@@ -18,19 +18,33 @@
 <br />
 
 <!-- Intro Section with Profile Views and Decorative Coding Graphic -->
-<img align="right" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=g-mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="g-mustafa1" /> 
 </p>
 
-- 🔭 I’m currently working on **[All-Assignment](https://github.com)**
-- 🌱 I’m currently learning **Web and Mobile App Development.**
-- 👨‍💻 All of my projects are available at https://github.com/G-Mustafa1
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP.**
-- 📫 How to reach me **gmustufa1255@gmail.com**
-- ⚡ Fun fact **I am funny 😊**
+<div>
+  <img align="right" style="padding: 50px, 0px;" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding">
 
+
+- 💻 I'm a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications.
+  
+- 🔭 Currently working on **full-stack web projects** and improving my development workflow.
+  
+- 🌱 Continuously learning and exploring **React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs**, and modern web technologies.
+  
+- 👨‍💻 My projects and development work are available on my **[GitHub](https://github.com/G-Mustafa1).**
+  
+- 🌐 Explore my portfolio: **[Portfolio](https://ghulam-mustafa-portfolio-eosin.vercel.app/)**
+  
+- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs**, and frontend development.
+  
+- 🤝 Open to **entry-level opportunities, collaborations, and interesting web development projects**.
+  
+- 📫 Reach me at **gmustufa1255@gmail.com**
+  
+- ⚡ I enjoy turning ideas into **clean, functional, and user-friendly web experiences**.
+
+</div>
 <br clear="right"/>
 <br />
 <hr />
