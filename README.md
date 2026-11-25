@@ -1,15 +1,30 @@
 <div align="center">
   <!-- Header Banner Gif -->
   <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="Banner" width="1000" height="400">
-  
-  <h1>Hi 👋, I'm Ghulam Mustafa</h1>
-  <h3>MERN Stack Developer building modern, scalable, and reliable web applications from Karachi, Pakistan.</h3>
 
-  <!-- Contribution Grid Snake Animation -->
+  <h1>Hi 👋, I'm Ghulam Mustafa</h1>
+  <h3>Full Stack Developer building modern, scalable and reliable web applications from Karachi, Pakistan 🇵🇰</h3>
+
+  <!-- Typing animation -->
+  <a href="https://ghulam-mustafa-offical.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Frontend+%2B+Backend+%2B+Database;Currently+Learning+Agentic+AI+%F0%9F%A4%96;Open+to+Opportunities+%26+Collaborations+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social badges -->
+  <a href="https://ghulam-mustafa-offical.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ghulam-mustufa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gmustufa1255@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/G-Mustafa1"><img src="https://img.shields.io/github/followers/G-Mustafa1?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
+
+  <br/><br/>
+
+  <!-- Contribution Grid Snake Animation (needs snake.yml workflow) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-mustafa1/g-mustafa1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G-Mustafa1/G-Mustafa1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G-Mustafa1/G-Mustafa1/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/G-Mustafa1/G-Mustafa1/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -17,47 +32,27 @@
 <hr />
 <br />
 
-<!-- Intro Section with Profile Views and Decorative Coding Graphic -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=g-mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="g-mustafa1" /> 
+<!-- Intro Section -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=G-Mustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="G-Mustafa1" />
 </p>
 
 <div>
   <img align="right" style="padding: 50px, 0px;" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding">
 
-
-- 💻 I'm a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications.
-  
-- 🔭 Currently working on **full-stack web projects** and improving my development workflow.
-  
-- 🌱 Continuously learning and exploring **React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs**, and modern web technologies.
-  
-- 👨‍💻 My projects and development work are available on my **[GitHub](https://github.com/G-Mustafa1).**
-  
-- 🌐 Explore my portfolio: **[Portfolio](https://ghulam-mustafa-portfolio-eosin.vercel.app/)**
-  
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs**, and frontend development.
-  
-- 🤝 Open to **entry-level opportunities, collaborations, and interesting web development projects**.
-  
+- 💻 I'm a **Full Stack Developer** focused on building modern, responsive and scalable web applications, from the UI to the database.
+- 💼 Currently a **Full Stack Developer Intern** at **Zaitoon Ashraf IT Park** (since Feb 2026).
+- 🎓 Previously a **MERN Stack Trainee** at **Saylani Mass IT Training (SMIT)**.
+- 🔭 Working on **full-stack projects**, including **Styre Bot**, a multi-tenant AI platform with 12 agents (I handle the frontend).
+- 🌱 Continuously learning and exploring **Next.js, TypeScript, Redux Toolkit, REST APIs, Socket.io** and **Agentic AI**.
+- 👨‍💻 My projects and development work are available on my **[GitHub](https://github.com/G-Mustafa1)**.
+- 🌐 Explore my portfolio: **[ghulam-mustafa-offical.vercel.app](https://ghulam-mustafa-offical.vercel.app/)**
+- 💬 Ask me about **React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, MongoDB, REST APIs** and frontend development.
+- 🤝 Open to **entry-level opportunities, internships, collaborations and interesting web development projects**.
 - 📫 Reach me at **gmustufa1255@gmail.com**
-  
-- ⚡ I enjoy turning ideas into **clean, functional, and user-friendly web experiences**.
+- ⚡ I enjoy turning ideas into **clean, functional and user-friendly web experiences**.
 
 </div>
-<br clear="right"/>
-<br />
-<hr />
-<br />
-
-<h1>🏆 GitHub Trophies</h1>  
-<div>
-  <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=g-mustafa1&theme=radical">
-    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=g-mustafa1&theme=radical" alt="g-mustafa1 trophies" />
-  </a>
-</div>
-
-<br />
 <hr />
 <br />
 
@@ -135,32 +130,108 @@
 <hr />
 <br />
 
-<h1>📈 GitHub Stats</h1> 
+<h1>📌 Featured Projects</h1>
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Styre Bot</h3>
+      A <b>multi-tenant SMMA AI platform</b> with 12 AI agents. I work on the <b>frontend</b>: dashboards, workforce hub, approvals and auth screens.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      My <b>MERN-based portfolio</b> with a premium dark theme and a light option, built to showcase my work and skills.
+      <br/><br/>
+      <a href="https://ghulam-mustafa-offical.vercel.app/">🔗 Live Demo</a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<!-- Add more projects: replace REPO_NAME with your real repo names -->
 <div align="center">
-  <!-- Core GitHub Statistics & Top Languages Side-by-Side -->
-  <img src="https://github-stats-extended.vercel.app/api?username=g-mustafa1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="165" style="margin: 5px;"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=g-mustafa1&layout=compact&theme=dark" alt="Top Languages" height="165" style="margin: 5px;"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Streak Tracker -->
-  <img src="https://streak-stats.demolab.com/?user=g-mustafa1&theme=dark" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/G-Mustafa1/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=REPO_NAME_1&theme=radical&hide_border=true" alt="Project 1" /></a>
+  <a href="https://github.com/G-Mustafa1/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=REPO_NAME_2&theme=radical&hide_border=true" alt="Project 2" /></a>
 </div>
 
 <br />
 <hr />
 <br />
 
-<h1>🔝 Top Contributed Repositories</h1> 
+<h1>🌱 Currently Learning &amp; Goals</h1>
 
-<div>
-  <!-- Fixed Dynamic Contributor Statistics Link -->
-  <img src="https://vercel.app" alt="Top Contributed Repositories" />
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖_Agentic_AI-In_Progress-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📘_TypeScript-Going_Deeper-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚛️_Next.js-Advanced-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏗️_System_Design-Exploring-47A248?style=for-the-badge" />
+</div>
+
+<br />
+<hr />
+<br />
+
+<h1>🏆 GitHub Trophies</h1>
+
+<div align="center">
+<a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=g-mustafa1&theme=radical">
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=g-mustafa1&theme=radical" alt="g-mustafa1 trophies" />
+  </a>
+</div>
+
+<br />
+<hr />
+<br />
+
+<h1>📈 GitHub Stats</h1>
+
+<div align="center">
+  <!-- Core GitHub Statistics & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=G-Mustafa1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" style="margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Mustafa1&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" style="margin: 5px;"/>
 </div>
 
 <br/>
-<hr/>
+
+<div align="center">
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com/?user=G-Mustafa1&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
 <br/>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Mustafa1&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%" />
+</div>
+
+<br />
+<hr />
+<br />
+
+<h1>🤝 Let's Connect</h1>
+
+<div align="center">
+  <p>I'm always open to talking about web development, new opportunities and collaborations.</p>
+
+  <a href="https://ghulam-mustafa-offical.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-ghulam--mustafa--offical.vercel.app-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
+  <br/>
+  <a href="https://www.linkedin.com/in/ghulam-mustufa"><img src="https://img.shields.io/badge/LinkedIn-ghulam--mustufa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gmustufa1255@gmail.com"><img src="https://img.shields.io/badge/Gmail-gmustufa1255@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks" />
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+</div>
