@@ -131,17 +131,17 @@
 <br />
 
 <h1>📌 Featured Projects</h1>
-
+ 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Styre Bot</h3>
-      A <b>multi-tenant SMMA AI platform</b> with 12 AI agents. I work on the <b>frontend</b>: dashboards, workforce hub, approvals and auth screens.
+      <h3>🩺 HealthMate AI Integration</h3>
+      A <b>health-focused application with AI integration</b>, built to make health-related information easier to access and understand.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+      <a href="https://github.com/G-Mustafa1/HealthMate-Ai-Integration">🔗 View Repository</a>
+      <br/><br/>
+      <!-- Add your real tech stack badges here -->
+      <img src="https://img.shields.io/badge/AI_Integration-0e75b6?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
@@ -155,11 +155,10 @@
     </td>
   </tr>
 </table>
-
-<!-- Add more projects: replace REPO_NAME with your real repo names -->
+<br />
 <div align="center">
-  <a href="https://github.com/G-Mustafa1/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=REPO_NAME_1&theme=radical&hide_border=true" alt="Project 1" /></a>
-  <a href="https://github.com/G-Mustafa1/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=REPO_NAME_2&theme=radical&hide_border=true" alt="Project 2" /></a>
+  <a href="https://github.com/G-Mustafa1/HealthMate-Ai-Integration"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=HealthMate-Ai-Integration&theme=radical&hide_border=true" alt="HealthMate-Ai-Integration" /></a>
+  <a href="https://github.com/G-Mustafa1/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Mustafa1&repo=Portfolio&theme=radical&hide_border=true" alt="Portfolio" /></a>
 </div>
 
 <br />
