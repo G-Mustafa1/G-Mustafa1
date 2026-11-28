@@ -83,7 +83,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript
